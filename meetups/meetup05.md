@@ -42,6 +42,6 @@
 * **Paurakh (Podcast Project lead)**: Paurakh will figure out logistics & ideas for a podcast series.
 
 
-**Next meetup date:**  05th Dec, 2017
+**Next meetup date:**  5th Dec, 2017
 
 
