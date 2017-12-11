@@ -15,6 +15,7 @@ If you want to contribute, please reach out to us at [our Facebook group](https:
 3. Mar 23, 2017 @ Menlo Park, [Event page](https://www.facebook.com/events/1882008945414016/)
 4. Nov 09, 2017 @ Menlo Park, [Event page](https://www.facebook.com/events/1492655860784336/)
 5. [Nov 21, 2017 @ Menlo Park](meetups/meetup05.md),  [Event page](https://www.facebook.com/events/348980295565467/)
+6. [Dec 8, 2017 @ Sunnyvale](meetups/meetup06.md),  [Event page](https://www.facebook.com/groups/1232118366864969/)
 
 ### Others
 
