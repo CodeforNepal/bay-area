@@ -40,7 +40,7 @@
 * The monthly meetup might be a talk, a panel discussion, hike, barbeque or a general gathering. Details to be decided.
 * **Fundraising:** Raise funds for an internship summer program for Code for Nepal, an annual event & gather thoughts on sustaining the program.
 * Annual event - mostly partnership with an existing organization, start small & learn.
-* **Shreyasha* is going to take the lead and brief us in the next meetup. Others are going to think of events that we can organize this year.
+* **Shreyasha** is going to take the lead and brief us in the next meetup. Others are going to think of events that we can organize this year.
 * **Fundraising:** Lekhanee on Android, GSoC partership, maintain an idealist, C4N internship.
 * **Sasankh** is going to take the lead on starting the page for idea list in Github.
 * **Prashish** is going to take an action item to create emails for GSoC mentors.
