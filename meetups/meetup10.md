@@ -19,13 +19,13 @@
 
 ## Attendees
 
-* Anup Dhamala: anupdhml <at>  gmail.com
-* Aish Raj Dahal: contact <at>  aishraj.com
-* Prasanna Suman: prasanna.tux <at> gmail.com
-* Veeshan Rayamajhi: veeshan.rayamajhee <at>  gmail.com
-* Pragya Tripathi: pragya.tripathi.8114 <at> gmail.com
-* Kritish Rajbhandari: krajbhan <at>  gmail.com
-* Shreyasha Paudel: shreyashapdl <at>  gmail.com
+* Anup Dhamala: anupdhml `<at>`  gmail.com
+* Aish Raj Dahal: contact `<at>`  aishraj.com
+* Prasanna Suman: prasanna.tux `<at>` gmail.com
+* Veeshan Rayamajhi: veeshan.rayamajhee `<at>`  gmail.com
+* Pragya Tripathi: pragya.tripathi.8114 `<at>` gmail.com
+* Kritish Rajbhandari: krajbhan `<at>`  gmail.com
+* Shreyasha Paudel: shreyashapdl `<at>`  gmail.com
 
 ## Meeting Minutes
 * Introduction
