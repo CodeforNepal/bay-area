@@ -1,4 +1,4 @@
-# Code for Nepal - Silicon Valley Meetup #5
+# Code for Nepal - Akshara Meeting
 
 ## Event
 
