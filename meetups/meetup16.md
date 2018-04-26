@@ -20,7 +20,7 @@
 ## Conversation Summary
 
 - Aish
-  - Talked to founder of Code for Nepal - We can now get access to AWS, Azure, Google Cloud Platform.
+  - Talked to founder of Code for Nepal - We can now get access to AWS, Azure, Google Cloud Platform. Talks with Amazon in progress. Will talk to Google/Azure next.
 
 - Pragya
   - The python package being used for tesseract does not compile in docker. Looking for alternatives.
